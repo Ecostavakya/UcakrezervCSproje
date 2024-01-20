@@ -1,0 +1,17 @@
+[
+  {
+    "Lokasyon": {
+      "Ulke": "TR",
+      "Sehir": "konya",
+      "Havaalani": "ATAT",
+      "Aktif": true
+    },
+    "Saat": "2",
+    "UcakBilgisi": {
+      "Model": "12",
+      "Marka": "PEG",
+      "SeriNo": "1",
+      "KoltukKapasitesi": 15
+    }
+  }
+]
